@@ -1,5 +1,4 @@
 import { Provider } from "react-redux";
-import "./App.css";
 import PersonalityCard from "./components/PersonalityCard";
 import store from "./store";
 
